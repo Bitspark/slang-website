@@ -17,7 +17,7 @@ Roboto and Roboto Slab, transparent theme-specific logos, and typed connections.
 | --- | --- |
 | [slang-website](https://github.com/Bitspark/slang-website) | Product website and hosted studio quick start |
 | [slang-studio](https://github.com/Bitspark/slang-studio) | Cloud application frontend, intended for `slang.run` |
-| [slang-ui](https://github.com/Bitspark/slang-ui) | Released Angular playground editor |
+| [slang-ui](https://github.com/Bitspark/slang-ui) | Released Angular editor of the retired public playground; slated for removal under [decision 0008](https://github.com/Bitspark/slang-ecosystem/blob/main/docs/decisions/0008-api-contract-decisions.md) |
 | [slang-design](https://github.com/Bitspark/slang-design) | Shared design tokens, CSS recipes, components, fonts, and logos |
 | [slang](https://github.com/Bitspark/slang) | Language runtime, daemon and workspace gateway |
 
